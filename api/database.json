@@ -1,0 +1,33 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Lollipop"
+    },
+    {
+      "id": 2,
+      "name": "Buttons"
+    }
+  ],
+  "completions": [],
+  "reservations": [
+    {
+      "parentName": "Cassandra Cassanova",
+      "childName": "Sally Mae Cassanova",
+      "partySize": "50",
+      "partyAddress": "150 Old Town Road",
+      "partyDate": "2021-06-28",
+      "partyLength": "2",
+      "id": 1
+    },
+    {
+      "parentName": "William Tell",
+      "childName": "Billy Tell",
+      "partySize": "15",
+      "partyAddress": "150 Old Town Road",
+      "partyDate": "2021-06-30",
+      "partyLength": "1.5",
+      "id": 2
+    }
+  ]
+}
